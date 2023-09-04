@@ -37,5 +37,4 @@
 
 
 ## Authors
-Aslam Dhikrullahi [`aslam-adigun`](https://github.com/aslam-adigun)
-Tochukwu Onah [`tchytech`](https://github.com/tchytech)
+
