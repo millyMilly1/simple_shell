@@ -35,6 +35,3 @@
 | `File 30 - shell_loop.c` |
 | `File 31 - split.c` |
 
-
-## Authors
-
